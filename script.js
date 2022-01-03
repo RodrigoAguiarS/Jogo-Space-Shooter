@@ -158,4 +158,5 @@ function gameOver() {
         startButton.style.display = "block";
         instructionsText.style.display = "block";
     });
+    
 }
